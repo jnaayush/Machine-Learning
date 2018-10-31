@@ -1,0 +1,53 @@
+---------n = 2-------------- 
+
+Closed Form solution:
+Weights CF: 
+[[9.49203678]
+ [4.79191663]
+ [1.52906587]]
+Error on training data: 24.74191963632994
+Error on test data: 4413.586767498235
+
+
+Gradient Descent solution:
+Weights GD: 
+[[9.49203678]
+ [4.79191663]
+ [1.52906587]]
+Error on training data: 24.74191963632994
+Error on test data: 4413.586767498547
+
+
+---------n = 3-------------- 
+
+Closed Form solution:
+Weights CF: 
+[[10.00815033]
+ [ 0.20418927]
+ [ 1.47413164]
+ [ 0.47320168]]
+Error on training data: 3.9678631570279155
+Error on test data: 53.83114916352574
+
+
+Gradient Descent solution:
+Weights GD: 
+[[10.00815033]
+ [ 0.20418927]
+ [ 1.47413164]
+ [ 0.47320168]]
+Error on training data: 3.9678631570279155
+Error on test data: 53.83114916355556
+
+Ridge Regresssion
+
+Weights from CF: 
+[[1.67996377]
+ [8.53642851]]
+Error on training data: 1761.0596193188057
+Error on test data: 4957.834364902438
+Weights from GD: 
+[[0.76253837]
+ [6.37620123]]
+Error on training data: 2250.3506102466704
+Error on test data: 6188.549744453256

@@ -1,0 +1,18 @@
+Dataset 3
+
+('Estimated regression coefficients:', matrix([[ 0.59722187,  2.58959573, -1.45145104]]))
+('Correct classifications:', 136)
+('Incorrect Classifications:', 0)
+('Correct test classifications:', 14)
+('Incorrect test Classifications:', 0)
+
+Dataset 4
+('Estimated regression coefficients:', matrix([[ 0.94879774,  3.1820274 , -0.64683432]]))
+('Correct classifications:', 123)
+('Incorrect Classifications:', 3)
+('Correct test classifications:', 13)
+('Incorrect test Classifications:', 1)
+
+
+We observe that the there are some of the points that are not correctly classifieed. This might be because the classes
+are very closely related.
